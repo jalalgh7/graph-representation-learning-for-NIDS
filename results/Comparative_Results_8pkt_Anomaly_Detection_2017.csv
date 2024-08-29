@@ -1,0 +1,13 @@
+,Class,Size,Anomaly Detection Rate (OCSVM),Anomaly Detection Rate (IForest),Anomaly Detection Rate (HBOS),Anomaly Detection Rate (INNE),Anomaly Detection Rate (Ensemble)
+0,Benign,5000,6.49,9.17,9.21,9.02,11.43
+1,DoS GoldenEye,6090,96.68,90.55,91.11,97.11,97.31
+2,Heartbleed,1468,96.53,87.85,90.52,96.53,96.93
+3,DoS Slowhttptest,964,96.98,93.22,94.34,97.19,97.29
+4,DoS Slowloris,1002,95.16,91.54,92.62,96.24,97.12
+5,DoS Hulk,5000,95.69,88.63,89.06,96.29,96.53
+6,PortScan,6451,94.31,85.36,88.28,95.16,95.84
+7,DDoS,5000,96.49,87.42,88.79,96.86,97.02
+8,Infiltration,1764,96.17,91.61,94.44,96.39,97.56
+9,Web Attack-BruteForce,140,95.9,93.8,98.0,97.3,98.0
+10,SSH-Patator,175,95.2,84.56,87.92,95.76,95.76
+11,FTP-Patator,174,94.06,82.79,84.48,94.06,95.18

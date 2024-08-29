@@ -1,0 +1,9 @@
+,Class,Number of nodes,Number of edges (flows),Anomaly Detection Rate (OCSVM),Anomaly Detection Rate (IForest),Anomaly Detection Rate (HBOS),Anomaly Detection Rate (INNE),Anomaly Detection Rate (Ensemble)
+1,DoS GoldenEye,1884,1881,96.7,93.89,93.89,94.58,97.08
+2,DoS Slowloris,951,946,98.84,97.78,98.1,97.57,99.37
+3,DDoS,2001,2000,19.05,0,0,99.4,99.4
+4,Infiltration,66,41,97.56,80.49,92.68,97.56,100
+5,Web Attack-BruteForce,390,345,99.71,96.52,97.1,96.52,99.71
+6,Web Attack XSS,296,249,99.2,92.77,95.58,98.39,99.2
+7,SSH-Patator,687,682,96.48,92.96,94.57,93.84,97.65
+8,FTP-Patator,57,53,98.11,100,100,90.57,100

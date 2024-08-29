@@ -1,0 +1,15 @@
+,Class,Number of nodes,Number of edges (flows),Number of anomalies (OSVM),Anomaly Detection Rate (OSVM),Number of anomalies (IF),Anomaly Detection Rate (IF)
+0,Benign,7131,5000,366.0,7.32,262.0,5.24
+1,DoS GoldenEye,6758,6539,6059.0,92.66,3295.0,50.39
+2,Heartbleed,2222,1650,1582.0,95.88,975.0,59.09
+3,DoS Slowhttptest,1414,1109,1074.0,96.84,289.0,26.06
+4,DoS Slowloris,1652,1342,1249.0,93.07,440.0,32.79
+5,DoS Hulk,5413,5000,4699.0,93.98,2769.0,55.38
+6,PortScan,9213,7386,6865.0,92.95,4578.0,61.98
+7,Botnet,737,736,2.0,0.27,0.0,0.0
+8,DDoS,6071,5000,4765.0,95.3,2487.0,49.74
+9,Infiltration,3861,2921,2903.0,99.38,2113.0,72.34
+10,Web Attack-BruteForce,224,160,148.0,92.5,91.0,56.88
+11,Web Attack XSS,43,27,26.0,96.3,16.0,59.26
+12,SSH-Patator,609,420,413.0,98.33,319.0,75.95
+13,FTP-Patator,660,437,431.0,98.63,333.0,76.2
