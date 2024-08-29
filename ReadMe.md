@@ -1,0 +1,1 @@
+Source code Files to develop a Graph Transformer-based Autoencoder (GTAE) framework using PyTorch Geometric (PyG) and DGL in Python to solve challenges in capturing global information from large network data.
